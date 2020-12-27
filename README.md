@@ -16,3 +16,9 @@ The data are from China's most popular social media, Sina Weibo
 The data of "Hot Searches" scraped from the platform consist of content of top searches, start and end time when certain search topics are in the ranking list, and heat volume. Each month has around 2,800 - 3,000 rows of hot search data without duplication. Hence, about 8,700 rows of hot searches data are scraped for January, February and March.
 
 Among the hot searches, we selected some significant incidents with high discussion volume for economic, political and social aspects for different points in time. After that, we scraped the comments from the incident posts with at least 8,000 comments. We selected 2 incident posts per aspect per month and scraped around 600 - 800 comments per post. In total, we had 18 posts to scrape and received about 15,000 rows of comment data.
+
+## Limitations
+### Limitation of data source
+Due to the restriction of Sina Weibo, we could not crawl data from every single day. Instead, we made use of hot searches data and comment data of selected incidents to analyse the public's discussion topic and sentiment towards COVID-19. This causes less variety of discussion topics and inaccuracy of overall sentiments.
+### Limitation of data analysis strategy
+As we did not have data for everyday, we displayed the timeline for sentiment trends by the point of time at which the incidents happened. This results in limitation in showing the overall sentiments because sentiments towards a single incident are distinct. Hence, using sentiments of selected incidents is not representative enough for analysing overall sentiments in certain periods of time.
