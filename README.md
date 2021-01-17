@@ -64,11 +64,14 @@ On 26 January 2020, a post on Weibo said that all 314 passengers on the flight T
 
 According to the cluster shown in the graph, cluster 1 and cluster 2 both show an emotion of anger, and cluster 3 shows an emotion of worry.
 We summarize the 3 clusters’ opinions according to the keywords listed in each cluster:
+
 Opinion 1: The responsibility of this incident lies with Wuhan residents who go abroad
 Keywords: Wuhan | Hangzhou | Doctor | leave Wuhan | nationwide | Singapore | lockdown |
 Selfish | Scourge
+
 Opinion 2: Singapore repatriates Wuhan travelers who have a fever to Zhejiang Province together with Zhejiang residents without informing them
 Keywords: Zhejiang people | innocent | Singapore | repatriate | pack together | paradrop | right to be informed | real bad | inform
+
 Opinion 3: Caring about the medical staff who took over this flight and efforts made so far
 Keywords: infected | confirmed | medical staff | information | museum | scenic area | close |
 KTV | self-saving
